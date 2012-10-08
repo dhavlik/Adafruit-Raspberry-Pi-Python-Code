@@ -1,0 +1,9 @@
+Changelog
+=========
+
+0.1-dev (unreleased)
+--------------------
+
+- Initialize egg.
+
+- Move existing Python code into egg, add symlinks.
